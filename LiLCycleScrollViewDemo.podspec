@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LiLCycleScrollViewDemo'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = '这是一个强大的轮播库'
 
 # This description is used to generate tags and improve search results.
@@ -21,10 +21,10 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/1608968113@qq.com/LiLCycleScrollViewDemo'
+  s.homepage         = 'https://github.com/llhlj1991/LiLCycleScrollViewDemo'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '1608968113@qq.com' => '1608968113@qq.com' }
-  s.source           = { :git => 'https://github.com/1608968113@qq.com/LiLCycleScrollViewDemo.git', :tag => s.version.to_s }
+  s.author           = { 'llhlj' => '1608968113@qq.com' }
+  s.source           = { :git => 'https://github.com/llhlj1991/LiLCycleScrollViewDemo.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
