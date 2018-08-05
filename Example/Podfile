@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LiLCycleScrollViewDemo_Example' do
+  pod 'LiLCycleScrollViewDemo', :path => '../'
+
+  target 'LiLCycleScrollViewDemo_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end

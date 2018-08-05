@@ -1,0 +1,22 @@
+{
+  "name": "LiLCycleScrollViewDemo",
+  "version": "0.1.0",
+  "summary": "A short description of LiLCycleScrollViewDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/1608968113@qq.com/LiLCycleScrollViewDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1608968113@qq.com": "1608968113@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/1608968113@qq.com/LiLCycleScrollViewDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LiLCycleScrollViewDemo/Classes/**/*"
+}

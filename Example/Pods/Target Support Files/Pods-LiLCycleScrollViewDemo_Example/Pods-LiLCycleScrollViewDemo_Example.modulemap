@@ -1,0 +1,6 @@
+framework module Pods_LiLCycleScrollViewDemo_Example {
+  umbrella header "Pods-LiLCycleScrollViewDemo_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
